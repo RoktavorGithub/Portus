@@ -1,0 +1,34 @@
+{
+  "name": "discordbot-template",
+  "version": "9.0.6",
+  "description": "Just your average discord bot handler.",
+  "main": "bot.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rilecraft/discordbot-template.git"
+  },
+  "author": "RileCraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rilecraft/discordbot-template/issues"
+  },
+  "homepage": "https://github.com/rilecraft/discordbot-template#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^14.14.1",
+    "discord.js-qotd": "^1.5.1",
+    "moment": "^2.30.1",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4",
+    "ms": "^2.1.3",
+    "pg": "^8.11.5",
+    "sequelize": "^6.37.3",
+    "simple-json-db": "^2.0.0",
+    "sourcebin": "^5.0.0",
+    "sourcebin_js": "^0.0.3-ignore",
+    "tasai": "^1.0.0",
+    "tic-tac-toe-cli": "^1.3.5",
+    "undici-types": "^5.26.5"
+  }
+}
